@@ -34,7 +34,7 @@ fun CounterScreen(innerPadding: PaddingValues) {
 
 @Preview(showBackground = true)
 @Composable
-fun GreetingPreview() {
+fun CounterPreview() {
     ContadorJetpackComposeTheme {
         MainScreen()
     }
